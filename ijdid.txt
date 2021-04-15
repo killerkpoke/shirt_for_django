@@ -1,0 +1,14 @@
+For backend>
+- django
+- django rest framework for API
+- django cors headers for security
+- djoser for auth and token
+- pillow for resize images
+- stripe
+
+For frontend>
+- vue - how to run?> npm run serve
+- node js
+- axios for talking to the backend
+- bulma for css framework
+- 
