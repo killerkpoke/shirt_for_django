@@ -1,5 +1,5 @@
 For backend>
-- django
+- django - admin / linux987
 - django rest framework for API
 - django cors headers for security
 - djoser for auth and token
@@ -11,4 +11,6 @@ For frontend>
 - node js
 - axios for talking to the backend
 - bulma for css framework
-- 
+
+
+youtube video: https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=179s
