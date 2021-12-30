@@ -1,8 +1,8 @@
-#shirt_for_django
+# shirt_for_django
 
 Basic e-commerce webshop with Django and Vue js, where we selling t-shirts and shirts.
 
-#For backend
+# For backend
 - django
 - django rest framework, for API
 - django cors, headers for security
@@ -10,7 +10,7 @@ Basic e-commerce webshop with Django and Vue js, where we selling t-shirts and s
 - pillow, for resize images
 - stripe, for transaction (missing feature)
 
-#For frontend
+# For frontend
 - Vue js - how to run? -> npm run serve
 - node js, for Vue
 - axios, for get data to the frontend
