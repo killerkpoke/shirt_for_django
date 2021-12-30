@@ -1,6 +1,7 @@
-# shirt_for_django
+# shirt_for_django project
 
 Basic e-commerce webshop with Django and Vue js, where we selling t-shirts and shirts.
+The backend and the frontend pushed on different bracnches, which is intended.
 
 # For backend
 - django
