@@ -16,5 +16,3 @@ The backend and the frontend pushed on different bracnches, which is intended.
 - node js, for Vue
 - axios, for get data to the frontend
 - bulma, for CSS framework
-
-youtube tutorial that i followed, for learning Vue js: https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=179s
